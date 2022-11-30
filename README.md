@@ -6,13 +6,6 @@ NIM : 312210047
 
 Kelas : TI.22.A1
 
-## DAFTAR ISI <br>
-| No | Description | Link |
-|-----|------|-----|
-|1|Latihan|[Click Here](#latihan)|
-|2|Praktikum -6|[Click Here](#praktikum-6)|
-|3|Flowchart Praktikum-6|[Click Here](#flowchart-praktikum-6)|
-
 ## Latihan
 Buat Dictionary daftar kontak
 - Nama sebagai key, dan nomor sebagai value
